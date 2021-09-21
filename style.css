@@ -1,0 +1,33 @@
+body{ 
+background-color: lightpink;
+font-family:cursive;
+}
+
+h1{
+  color: indigo;
+  text-align: center;
+  
+}
+h5{
+  text-align: center;  
+}
+h3 {
+  border-style: solid;
+  margin-right:200px;`
+  border-radius:40px;
+  background-color:lightgoldenrodyellow;
+}
+
+button{
+  background-color:lightcoral;
+  border:none;
+  border-radius:40px;
+}
+a{ color:black;
+text-decoration:none;
+  font-family:cursive;
+
+}
+#cats {
+  text-align:right;
+}
